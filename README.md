@@ -1,2 +1,2 @@
 # SUPER-MARKET
-This is a supermarket page.
+This is a supermarket website.
